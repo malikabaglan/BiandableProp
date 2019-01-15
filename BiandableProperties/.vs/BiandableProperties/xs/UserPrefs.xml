@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{C036A05B-2216-4D5C-BFB2-09F1E5CBB3FD}|Default">
+  <MonoDevelop.Ide.ItemProperties.BiandableProperties.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.BiandableProperties.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainPageViewModal.cs">
+    <Files>
+      <File FileName="BiandableProperties/MainPage.xaml.cs" Line="17" Column="2" />
+      <File FileName="BiandableProperties/MainPage.xaml" Line="6" Column="48" />
+      <File FileName="BiandableProperties/MainUpdatePage.xaml" Line="7" Column="9" />
+      <File FileName="BiandableProperties/MainUpdatePage.xaml.cs" Line="37" Column="1" />
+      <File FileName="MainPageViewModal.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BiandableProperties FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
